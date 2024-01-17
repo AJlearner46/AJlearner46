@@ -11,7 +11,7 @@
 
 - I am actively seeking Intern opportunities in Data science, ML, GenAI, SDE related roles.
 - I am also open to freelance gigs.
-- I am looking to collaborate on Open Source Projects, hackathon, Projects, 
+- I am looking to collaborate on Open Source Projects. 
 
 
 ### My Social Media Handles
