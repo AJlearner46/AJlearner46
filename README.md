@@ -2,7 +2,7 @@
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=AJlearner46" alt = "AJlearner46" /> </p>
 
-- 👋 I’m Ayush Rupapara, 3th year Undergraduate at NIT Bhopal.
+- 👋 I’m Ayush Rupapara, 4th year Undergraduate at NIT Bhopal.
 - 💻 I'm Implimenting deep learning & building GenAI projects.
 - 🌱 I'm exploring Data Science & AI field.
 - 📫 You can contact me through email - ayushrupapra22@gmail.com
