@@ -23,6 +23,7 @@
 ### My Coding Profiles
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ajr094)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/aj_learner007/)
+[<img src="https://img.shields.io/badge/Hugging%20Face-Profile-blue?style=for-the-badge&logo=Huggingface&logoColor=yellow" />](https://huggingface.co/ayushrupapara)
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/aj_learner007)
 
 
