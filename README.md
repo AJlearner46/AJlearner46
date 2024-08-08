@@ -3,15 +3,13 @@
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=AJlearner46" alt = "AJlearner46" /> </p>
 
 - 👋 I’m Ayush Rupapara, 4th year Undergraduate at NIT Bhopal.
-- 💻 I'm Implimenting deep learning & building GenAI projects.
 - 🌱 I'm exploring Data Science & AI field.
 - 📫 You can contact me through email - ayushrupapra22@gmail.com
 
 ## Seeking Opportunities
 
-- I am actively seeking Intern opportunities in Data science, ML, GenAI, SDE related roles.
-- I am also open to freelance gigs.
-- I am looking to collaborate on Open Source Projects. 
+- I am actively seeking Intern & Full-time opportunities.
+- I am looking to collaborate on Open Source Projects & hackathons. 
 
 
 ### My Social Media Handles
