@@ -4,7 +4,7 @@
 
 - 👋 I’m Ayush Rupapara, 4th year Undergraduate at NIT Bhopal.
 - 🌱 I'm exploring Data Science & AI field.
-- 📫 You can contact me through email - ayushrupapra22@gmail.com
+- 📫 You can contact me through email - ayushrupapara@gmail.com
 
 ## Seeking Opportunities
 
